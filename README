@@ -1,4 +1,4 @@
-# VanillaWire Reactivity
+# VanillaWire is a hybrid reactive state management and UI reactivity solution that combines both approaches into a unified system.
 
 A zero-dependency, vanilla JS reactive system leveraging modern browser APIs.
 
