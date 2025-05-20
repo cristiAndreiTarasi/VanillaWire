@@ -39,6 +39,6 @@ export const Debug = {
      * @returns {Object} Current dependencies
      */
     inspect() {
-        return STATE_TRACKER;
+        return window.__STATE_TRACKER; 
     }
 };
